@@ -1,0 +1,262 @@
+
+
+@media (max-width: 768px) {
+    body {
+      background-color: lightblue;
+      
+    }
+    #box1{
+        background-color:red;
+    }
+    #box2{
+        background-color:blue;
+    }
+    #box3{
+        background-color:black;
+    }
+    #box4{
+        background-color:grey;
+    }
+    #box5{
+        background-color:green;
+    }
+    #box6{
+        background-color: light blueviolet;
+    }
+    #box7{
+        background-color:red;
+    }
+    #box8{
+        background-color:blue;
+    }
+    #box9{
+        background-color:yellow;
+    }
+
+  }
+
+
+
+  
+
+
+
+body, html {
+    height: 100%;
+    margin:0;
+    padding:0;
+    width: 100%;
+  
+  }
+  
+  * {
+    box-sizing: border-box;
+  } 
+
+ 
+  #box1{
+width:480px;
+height:75px;
+padding: 10px;
+border: 1px solid black;
+margin: 0;
+text-align:center;
+
+  }
+
+  #box2{
+    width:480px;
+    height:125px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 0;
+  text-align:center;
+      }
+    
+      #box3{
+        width:480px;
+        height:125px;
+        padding: 10px;
+        border: 1px solid black;;
+        margin: 0;
+  
+        
+          }
+          #box4{
+            width:480px;
+            height:125px;
+            padding: 10px;
+            border: 1px solid black;;
+            margin: 0;
+        
+            text-align: bottom;
+            
+              }
+              #box5{
+                width:235px;
+                height:250px;
+                padding: 10px;
+                border: 1px solid black;
+                margin: 0 auto;
+          
+                display:inline-block;
+                  }
+                  #box6{
+                    width:240px;
+                    height:250px;
+                    padding: 10px;
+                    border: 1px solid black;
+                    margin: 0 auto;
+                 
+                    display:inline-block;
+                      }
+                      #box7{
+                        width:240px;
+                        height:250px;
+                        padding: 10px;
+                        border: 1px solid black;
+                        margin: 0 auto;
+                     
+                        display:inline-block;
+                       
+                          }
+                          #box8{
+                            width:240px;
+                            height:250px;
+                            padding: 10px;
+                            border: 1px solid black;
+                            margin: 0;
+                        
+                            display:inline-block;
+                              }
+                              #box9{
+                                width:480px;
+                                height:80px;
+                                padding: 10px;
+                                border: 1px solid black;
+                                margin: 0;
+                               
+                                display:block;
+                                  }
+                     
+                            
+
+  @media (min-width: 768px) {
+
+    body, html {
+      height: 700px;
+      margin:0 auto;
+      padding:0;
+      width: 960px;
+    
+    }
+    
+
+  
+    #box1{
+      background-color:grey;
+      width:960px;
+      height:100px;
+      padding: 10px;
+      border: 1px solid black;
+      margin: auto;
+      display:inline-block;
+      
+        }
+      
+        #box2{
+          background-color:black;
+          width:200px;
+          height:600px;
+          padding: 10px;
+          border: 1px solid black;
+          margin: auto;
+          display:inline-block;
+          float: left;
+          
+        
+            }
+          
+            #box3{
+              background-color:yellow;
+              width:380px;
+              height:200px;
+              padding: 10px;
+              border: 1px solid black;;
+              margin: auto;
+        display:inline-block;
+        float:left;
+              
+                }
+                #box4{
+                  background-color:blue;
+                  width:380px;
+                  height:200px;
+                  padding: 10px;
+                  border: 1px solid black;;
+                  margin: auto;
+              
+                    display:inline-block;
+                    float:left;
+                  
+                    }
+                    #box5{
+                      background-color: red;
+                      width:190px;
+                      height:250px;
+                      padding: 10px;
+                      border: 1px solid black;
+                      margin: auto;
+                
+                      display:inline-block;
+                      float: left;
+                        }
+                        #box6{
+                          backgorund-color:green;
+                          width:190px;
+                          height:250px;
+                          padding: 10px;
+                          border: 1px solid black;
+                          margin: auto;
+          
+                          display:inline-block;
+                          float: left;
+                            }
+                            #box7{
+                              background-color: yellow;
+                              width:190px;
+                              height:250px;
+                              padding: 10px;
+                              border: 1px solid black;
+                              margin: auto;
+                        
+                              display:inline-block;
+                            
+                                }
+                                #box8{
+                                  background-color: red;
+                                  width:190px;
+                                  height:250px;
+                                  padding: 10px;
+                                  border: 1px solid black;
+                                  margin: auto;
+      
+                                  display:inline-block;
+                                  float: left;
+                                 
+                                    }
+                            
+                                    #box9{
+                                      background-color: blue;
+                                      width:760px;
+                                      height:150px;
+                                      padding: 10px;
+                                      border: 1px solid black;
+                                      margin: 0 auto;
+                                     float:left;
+                                      display:inline-block;
+                                        }
+                                 
+
+
+  }
